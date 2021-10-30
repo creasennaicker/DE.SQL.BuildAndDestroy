@@ -5,3 +5,4 @@ mysql> ALTER TABLE users
     -> email VARCHAR(255) NOT NULL,
     -> suffix VARCHAR(64) NOT NULL,
     -> badge_id VARCHAR(255) NOT NULL);
+ 
